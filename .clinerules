@@ -1,0 +1,1 @@
+Always read SPEC.md before working. This project is Saath, an elder medicine-care app, NOT a school app. Do only the step asked. No extra features. Tailwind only. Run commands normally and wait for them to finish; never run commands in the background or repeatedly read log files. Verify with `node --check <file>` and `npm run build` in /client only.
